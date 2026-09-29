@@ -12,7 +12,7 @@ python generate-usecase-chats.py
 
 example output:
 
-![image](https://github.com/cognitivecomputations/generate/assets/1117701/d33b0edc-c709-46d8-a489-caedfa7387ba)
+![image](https://github.com/QuixiAI/generate/assets/1117701/d33b0edc-c709-46d8-a489-caedfa7387ba)
 
 There is a reason I'm outputting in this wonky schema.  This schema forces there to be 1 system message, and human/gpt pairs per conversation. 
 
